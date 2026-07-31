@@ -125,16 +125,16 @@ python populate_database.py
 
 # 📷 Screenshots
 
-Add screenshots here.
-
-
+-workflow diagram 
 <img width="240" height="732" alt="workflow drawio" src="https://github.com/user-attachments/assets/e6f0f92f-88d8-49ad-8406-3c2b05aea492" />
 
-
-- Database Tables
 - ERD
+- <img width="202" height="452" alt="erd drawio" src="https://github.com/user-attachments/assets/65742171-38d5-4a8a-8191-2a0bdfae1540" />
+
+-Database Tables
+
 - Terminal Output
-- Workflow Diagram
+<img width="1600" height="1049" alt="output" src="https://github.com/user-attachments/assets/02c59992-84ab-4a8a-80cf-1130590b01a5" />
 
 ---
 
